@@ -1,5 +1,5 @@
 [Вернуться в основной файл](https://github.com/Yambai/OOP_L2/blob/main/README.md)
-# **Шаг 3**
+# **Шаг 8**
 
 ---  
 
